@@ -12,12 +12,12 @@
 5. 同时提供IOS和Android版本。
 
 # 二、项目资源
-1. [ZTuoExchange_framework](https://github.com/3AGS//ZTuoExchange_framework)
+1. [ZTuoExchange_framework](https://github.com/3AGS/ZTuoExchange_framework)
 2. [ZTuoExchange_wallet](https://github.com/3AGS/ZTuoExchange_wallet)
 3. [ZTuoExchange_web](https://github.com/3AGS/ZTuoExchange_web)
 4. [ZTuoExchange_IOS](https://github.com/3AGS/ZTuoExchange_IOS)
 5. [ZTuoExchange_android](https://github.com/3AGS/ZTuoExchange_android)
-6. [ZTuoExchange_admin_web](https://github.com/3AGS/ZTuo_FFFF/ZTuoExchange_admin_web)
+6. [ZTuoExchange_admin_web](https://github.com/3AGS/ZTuoExchange_admin_web)
 7. [ZTuoExchange_操作手册](https://github.com/3AGS/ztuoexchange_doc)
 
 # 三、项目维护计划
